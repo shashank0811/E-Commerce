@@ -1,0 +1,19 @@
+1
+sai@gmail.com sai sai
+1
+lays 30 var@gmail.com
+2
+pepsi 50 10000 kar@gmail.com
+bingo 30 1500 var@gmail.com
+3
+kar@gmail.com kar kar
+2
+pepsi 200 kar@gmail.com 50
+thumbsup 150 kar@gmail.com 300
+var@gmail.com var var
+3
+lays 30 var@gmail.com 50
+bingo 50 var@gmail.com 30
+tangles 50 var@gmail.com 100
+  
+0
